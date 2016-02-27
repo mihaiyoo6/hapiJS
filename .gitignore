@@ -17,6 +17,7 @@
 
 # Gradle:
 .idea/gradle.xml
+/hapi-plugins.com
 .idea/libraries
 
 # Mongo Explorer plugin:
